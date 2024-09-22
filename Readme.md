@@ -48,7 +48,7 @@ Bem-vindo ao repositório de **Projetos de Machine Learning**! Aqui você encont
 
 ## 🚀 Objetivo
 
-Este repositório foi criado para fornecer uma base sólida e prática para desenvolvedores, cientistas de dados e entusiastas que buscam aprimorar seus conhecimentos em **Machine Learning** e **Deep Learning**. Cada projeto inclui exemplos práticos, datasets reais e scripts de fácil execução.
+Este repositório foi criado para fornecer uma base sólida e prática para desenvolvedores, cientistas de dados e entusiastas que buscam aprimorar seus conhecimentos em **Machine Learning** e **Deep Learning**. Cada projeto inclui exemplos práticos, datasets reais e scripts de fácil execução!
 
 ## 🛠 Tecnologias Utilizadas
 
